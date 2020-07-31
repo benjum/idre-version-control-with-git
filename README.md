@@ -2,6 +2,10 @@
   
 This repository is maintained by Ben Winjum for use in UCLA IDRE's introductory training class on Version Control with Git.
 
+## Slides
+
+* The slides are available in the file "Version Control with Git.pdf"
+
 ## Interacting with a JupyterHub environment for class
 
 * UCLA participants (multi-factor authentication required):
